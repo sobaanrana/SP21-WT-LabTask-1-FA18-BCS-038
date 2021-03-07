@@ -185,3 +185,16 @@ button:hover{
     border-top: 1px solid black;
     padding-bottom: 50px;
 }
+
+.GotoTop i{
+    border-radius: 0;
+    
+}
+
+.GotoTop{
+    position: relative;
+    margin-left: 95%;
+    margin-bottom: 10px;
+    scroll-behavior: smooth;
+
+}
